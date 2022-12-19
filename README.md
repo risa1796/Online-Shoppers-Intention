@@ -1,6 +1,6 @@
 # Online-Shoppers-Intention
 
-Mini data analysis & ML project.
+Mini data analysis & ML project made by Chung A Jin.
 
 ----
 
